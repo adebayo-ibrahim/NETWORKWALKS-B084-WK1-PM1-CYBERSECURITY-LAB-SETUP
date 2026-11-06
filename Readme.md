@@ -162,7 +162,7 @@ The Kali Linux network configuration was checked and configured with a consisten
 Example configuration:
 
 ```text
-IP Address: 10.0.0.2
+IP Address: 10.0.0.3
 Subnet Mask: 255.255.255.0
 Gateway: 10.0.0.1
 DNS: 8.8.8.8
