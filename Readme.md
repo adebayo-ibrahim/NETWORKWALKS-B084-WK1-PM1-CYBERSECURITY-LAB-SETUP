@@ -290,7 +290,7 @@ This laboratory is intended strictly for education purposes only.
 # 👤 Author
 
 **ADEBAYO IBRAHIM**\
-Cybersecurity Professional B082
+Cybersecurity Professional B084
 
 LinkedIn: [www.linkedin.com/in/ibrahim-adebayo-118613449](www.linkedin.com/in/ibrahim-adebayo-118613449/)
 
