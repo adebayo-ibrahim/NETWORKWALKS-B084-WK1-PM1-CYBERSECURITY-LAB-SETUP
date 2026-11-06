@@ -255,7 +255,7 @@ While on the other hand, NAT gives a VM its own private network isolated from ot
 
 ### 3. Virtual Machine Networking
 
-I learned how VirtualBox virtual network adapters connect virtual machines to different types of networks and how network configuration affects communication between machines. I also learned how connect different machines to one network which enable the machines to interact with each other.
+I learned how VirtualBox virtual network adapters connect virtual machines to different types of networks and how network configuration affects communication between machines. I also learned how to connect different machines to one network which enable the machines to interact with each other.
 
 ### 4. Static IP Configuration
 
