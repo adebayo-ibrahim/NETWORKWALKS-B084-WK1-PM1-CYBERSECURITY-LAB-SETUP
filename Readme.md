@@ -202,7 +202,7 @@ If a future exercise changes or damages the VM configuration, the machine can be
 | 🌍 Test Internet connectivity | `ping 8.8.8.8`                  | Successful replies   ![](Kali_linux_test_internet_connectivity.png)   ![](Kali_linux_internet_connection_success.png)         |
 | 🔎 Test DNS resolution        | `nslookup networkwalks.com`     | Domain resolves     ![](DNS_resolution_test.png)             |
 | 🧰 Verify Nmap                | `nmap --version`                | Nmap version displayed    ![](NMAP_verification.png)       |
-| 🔄 Verify snapshot            | Restore snapshot and run `ip a` | Baseline configuration restored  ![](Kali_snapshot.png)  |
+| 🔄 Verify snapshot            | Restore snapshot and run `ip a` | Baseline configuration restored  ![](THE HUNTER (My clean KALI) [Restoring].png)  |
 
 ### Example Results
 
@@ -290,7 +290,7 @@ This laboratory is intended strictly for education purposes only.
 # 👤 Author
 
 **ADEBAYO IBRAHIM**\
-Cybersecurity Professional B082
+Cybersecurity Professional B084
 
 LinkedIn: [www.linkedin.com/in/ibrahim-adebayo-118613449](www.linkedin.com/in/ibrahim-adebayo-118613449/)
 
