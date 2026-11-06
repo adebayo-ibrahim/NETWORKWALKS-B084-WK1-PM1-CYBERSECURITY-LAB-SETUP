@@ -287,6 +287,12 @@ This laboratory is intended strictly for education purposes only.
 
 ---
 
+# Week 1 extra project link
+Github: [Wireshark Extra Project Repository](https://github.com/adebayo-ibrahim/NETWORKWALKS-B084-WK1-PMx-WIRESHARK-wk1-extra-project)
+LinkedIn: [Wireshark Extra Project Post](https://lnkd.in/p/dCEiZyXz)
+
+---
+
 # 👤 Author
 
 **ADEBAYO IBRAHIM**\
