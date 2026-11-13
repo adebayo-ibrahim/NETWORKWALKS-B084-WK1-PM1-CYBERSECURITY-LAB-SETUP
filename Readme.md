@@ -298,7 +298,7 @@ LinkedIn: [Wireshark Extra Project Post](https://lnkd.in/p/dCEiZyXz)
 **ADEBAYO IBRAHIM**\
 Cybersecurity Professional B084
 
-LinkedIn: [www.linkedin.com/in/ibrahim-adebayo-118613449](www.linkedin.com/in/ibrahim-adebayo-118613449/)
+LinkedIn: [www.linkedin.com/in/ibrahim-adebayo-118613449](www.linkedin.com/in/ibrahim-adebayo-techie/)
 
 ---
 
